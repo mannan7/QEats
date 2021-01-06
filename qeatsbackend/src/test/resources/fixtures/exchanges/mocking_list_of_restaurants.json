@@ -1,0 +1,68 @@
+[
+  {
+    "id": "11",
+    "restaurantId": "11",
+    "name": "A2B",
+    "city": "Btm Layout",
+    "imageUrl": "www.google.com",
+    "latitude": 20.0269,
+    "longitude": 30.00,
+    "attributes": [
+      "Tamil",
+      "South Indian"
+    ]
+  },
+  {
+    "id": "12",
+    "restaurantId": "12",
+    "name": "A2B",
+    "city": "Electronic City",
+    "imageUrl": "www.google.com",
+    "latitude": 20.015,
+    "longitude": 30.015,
+    "attributes": [
+      "Tamil",
+      "South Indian"
+    ]
+  },
+  {
+    "id": "13",
+    "restaurantId": "13",
+    "name": "A2B",
+    "city": "Btm Layout",
+    "imageUrl": "www.google.com",
+    "latitude": 20.022,
+    "longitude": 30.01,
+    "attributes": [
+      "Tamil",
+      "South Indian"
+    ]
+  },
+  {
+    "id": "14",
+    "restaurantId": "14",
+    "name": "A2B",
+    "city": "Btm Layout",
+    "imageUrl": "www.google.com",
+    "latitude": 20.122,
+    "longitude": 30.11,
+    "attributes": [
+      "Tamil",
+      "South Indian"
+    ]
+  },
+  {
+    "id": "15",
+    "restaurantId": "15",
+    "name": "A2B",
+    "city": "Btm Layout",
+    "imageUrl": "www.google.com",
+    "latitude": 20.16,
+    "longitude": 30.16,
+    "attributes": [
+      "Tamil",
+      "South Indian"
+    ]
+  }
+]
+

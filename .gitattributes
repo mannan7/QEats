@@ -1,0 +1,13 @@
+__CRIO__/metadata.json merge=copy-merge
+settings.gradle merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/dto/RestaurantTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/repositoryservices/OrderRepositoryServiceTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/repositoryservices/RestaurantRepositoryServiceCacheTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/repositoryservices/CartRepositoryServiceTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/repositoryservices/RestaurantRepositoryServiceTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/repositoryservices/MenuRepositoryServiceTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/services/MenuServiceTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/services/RestaurantServiceTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/services/CartAndOrderServiceTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/utils/GeoUtilsTest.java merge=copy-merge
+./qeatsbackend/src/test/java/com/crio/qeats/controller/RestaurantControllerTest.java merge=copy-merge
